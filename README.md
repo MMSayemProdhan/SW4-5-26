@@ -1,5 +1,5 @@
 # SW4-5-26
-This is Githuh for my class
+This Project is for basic Git & Github
 ```
 This is a code
 ---
